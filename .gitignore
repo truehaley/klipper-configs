@@ -2,3 +2,4 @@
 *.bkp
 printer-*_*.cfg
 printer.cfg
+KlipperScreen.conf
