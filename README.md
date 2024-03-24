@@ -1,2 +1,9 @@
 # klipper-configs
 Config files for Klipper 3d printers
+
+
+Uses these packages on some printers:
+https://github.com/andrewmcgr/klipper_tmc_autotune
+
+
+
