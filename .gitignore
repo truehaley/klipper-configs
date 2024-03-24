@@ -1,5 +1,6 @@
 .DS_Store
 *.bkp
 printer-*_*.cfg
-printer.cfg
+/printer.cfg
+/moonraker.conf
 KlipperScreen.conf
